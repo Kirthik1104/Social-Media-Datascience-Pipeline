@@ -38,7 +38,11 @@ Visit the interactive dashboard here: [reddit-4chan-dashboard.streamlit.app/](ht
    - Run each cell in the notebook to see the analysis and visualizations.
 
 ### Note:
-**why there are two different csv files (optimized) along with main one:**
+1. **why there are two different csv files (optimized) along with main one:**
 When you integrate the entire analysis process directly into your dashboard, it tends to become slower and less user-friendly. 
 Each time you adjust the date, the system reprocesses the entire dataset, which is inefficient. To resolve this, after completing the analysis, 
-we extracted the most valuable data into a new CSV file. This streamlined CSV is then utilized in the dashboard, enhancing performance and user convenience. 
+we extracted the most valuable data into a new CSV file. This streamlined CSV is then utilized in the dashboard, enhancing performance and user convenience.
+
+  2. Actual date starts from Sept 29 to Dec 14
+
+

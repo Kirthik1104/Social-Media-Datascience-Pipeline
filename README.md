@@ -43,6 +43,6 @@ When you integrate the entire analysis process directly into your dashboard, it 
 Each time you adjust the date, the system reprocesses the entire dataset, which is inefficient. To resolve this, after completing the analysis, 
 we extracted the most valuable data into a new CSV file. This streamlined CSV is then utilized in the dashboard, enhancing performance and user convenience.
 
-  2. Actual date starts from Sept 29 to Dec 14
+  2. In dashboard, actual date starts from Sept 29 to Dec 14
 
 
